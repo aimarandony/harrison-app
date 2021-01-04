@@ -1,0 +1,8 @@
+{
+  "name": "harrison-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c82eca1c"
+}
